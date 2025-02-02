@@ -14,5 +14,5 @@ Single Page Application baseado no spotify.
 
 
   
-![Spotify Clone](https://raw.githubusercontent.com/thiagoarruda09/SPA-SPOTIFY/main/src/assets/playlist/macbook-spotify.png)
+![Spotify Clone](https://github.com/Thiagoarruda09/SPA-SPOTIFY/blob/main/src/assets/playlist/macbook-spotify.png.png)
 
