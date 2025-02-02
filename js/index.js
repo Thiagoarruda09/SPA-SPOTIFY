@@ -1,4 +1,6 @@
 const SIDEBAR = document.getElementById('sidebar')
 
-SIDEBAR.innerHTML = `${sideBarNavigation()}
-${library()}    `
+SIDEBAR.innerHTML = `
+${sideBarNavigation()}
+${library()} 
+${footer()}   `
